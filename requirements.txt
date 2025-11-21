@@ -1,0 +1,10 @@
+# This file contains all required packages for both the Streamlit dashboard and Kafka producer
+
+streamlit
+streamlit-autorefresh
+kafka-python
+pandas
+pymongo
+requests
+python-dateutil
+plotly
